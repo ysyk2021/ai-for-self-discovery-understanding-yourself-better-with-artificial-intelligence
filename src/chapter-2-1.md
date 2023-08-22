@@ -1,8 +1,6 @@
-Definition of AI
-================================================================
 
-Introduction
-------------
+
+
 
 Artificial intelligence (AI) has become increasingly prevalent in many areas of life, including self-discovery. In this chapter, we will define AI and discuss how it can be used for self-discovery purposes.
 
