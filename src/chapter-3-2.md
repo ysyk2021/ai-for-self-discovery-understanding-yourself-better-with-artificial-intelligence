@@ -1,7 +1,4 @@
 
-
-
-
 Preparation is key to a successful implementation of artificial intelligence (AI) in self-discovery. In this chapter, we will discuss the importance of evaluating data availability and quality before starting an AI implementation for self-discovery.
 
 Evaluating Data Availability

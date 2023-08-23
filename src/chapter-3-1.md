@@ -1,7 +1,4 @@
 
-
-
-
 Before implementing artificial intelligence (AI) tools in self-discovery, it is important to assess your individual needs and goals. In this chapter, we will discuss how to assess your self-discovery needs and goals in preparation for AI implementation.
 
 Identifying Your Self-Discovery Needs

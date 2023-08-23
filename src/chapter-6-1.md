@@ -1,5 +1,4 @@
 
-
 In this chapter, we will provide an overview of the various applications of artificial intelligence (AI) for self-assessment. AI-powered self-assessment tools have the potential to revolutionize the way individuals gain insights into their own emotional and mental well-being.
 
 Mood Tracking
