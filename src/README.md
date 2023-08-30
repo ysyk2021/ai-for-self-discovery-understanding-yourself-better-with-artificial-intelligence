@@ -8,3 +8,7 @@ This book presents an overview of the different ways in which AI can be used for
 The book is written for individuals seeking to gain a deeper understanding of themselves and use technology to aid in their personal growth journey. Whether you're a student, professional, or someone looking for personal development, 'AI for Self-Discovery: Understanding Yourself Better with Artificial Intelligence' provides valuable insights into how AI can be leveraged for self-discovery and personal growth.
 
 MingHai Zheng is the founder of zhengpublishing.com and lives in Wuhan, China. His main publishing areas are business, management, self-help, computers and other emerging foreword fields.
+
+Please Buy Me a Coffee to support us if you think this book is valuable to you. click this link:
+
+https://www.buymeacoffee.com/minghaizheng
